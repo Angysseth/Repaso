@@ -1,7 +1,7 @@
 let martinez = "Canson"
 const willi = "Re canson"
 
-console.log(martinez);
+console.log(martinez)
 
 
 const david = {
@@ -11,4 +11,8 @@ const david = {
     meEncanta: true
 }
 
-console.log(david.sonrisa);
+console.log(david.sonrisa)
+
+let arregloNovio = ["yo", "amo", "a", "mi", "novio", david]
+
+console.log(arregloNovio)
